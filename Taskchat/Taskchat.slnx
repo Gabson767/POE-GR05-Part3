@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="ChatTask/ChatTask.csproj" />
+  <Project Path="Taskchat/Taskchat.sqlproj" Id="1fa5af03-ff83-4e81-a351-0dedc3e0db31">
+    <Build />
+    <Deploy />
+  </Project>
+</Solution>
